@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "KTXAM5g7+K1CGlRxV9ChozJu5fuSY86XYWkGyndLB5tKoSzb+JK1HB39VZxQOVJnPSS7w7yiCJGEIv7Js9i4PA==",
+  "dgSpecHash": "oVOMryplTkTeiFKtL9/srha5vRBUeSDsH/Bq0ISkRwnZWaI3wCbMpCiB7r9wKkqSBwZLlIZk3Qz9mI6soAgNgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aieos_\\Documents\\code\\WizardInventory\\WizardInventory\\WizardInventory.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Projects\\GitHub\\WizardInventory\\WizardInventory\\WizardInventory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Noah\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Noah\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Noah\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Noah\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
