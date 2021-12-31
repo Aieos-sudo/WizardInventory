@@ -1,0 +1,14 @@
+C:\Users\Aieos_\Documents\code\WizardInventory\WizardInventory\bin\Debug\netcoreapp3.1\WizardInventory.exe
+C:\Users\Aieos_\Documents\code\WizardInventory\WizardInventory\bin\Debug\netcoreapp3.1\WizardInventory.deps.json
+C:\Users\Aieos_\Documents\code\WizardInventory\WizardInventory\bin\Debug\netcoreapp3.1\WizardInventory.runtimeconfig.json
+C:\Users\Aieos_\Documents\code\WizardInventory\WizardInventory\bin\Debug\netcoreapp3.1\WizardInventory.runtimeconfig.dev.json
+C:\Users\Aieos_\Documents\code\WizardInventory\WizardInventory\bin\Debug\netcoreapp3.1\WizardInventory.dll
+C:\Users\Aieos_\Documents\code\WizardInventory\WizardInventory\bin\Debug\netcoreapp3.1\WizardInventory.pdb
+C:\Users\Aieos_\Documents\code\WizardInventory\WizardInventory\obj\Debug\netcoreapp3.1\WizardInventory.csproj.AssemblyReference.cache
+C:\Users\Aieos_\Documents\code\WizardInventory\WizardInventory\obj\Debug\netcoreapp3.1\WizardInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aieos_\Documents\code\WizardInventory\WizardInventory\obj\Debug\netcoreapp3.1\WizardInventory.AssemblyInfoInputs.cache
+C:\Users\Aieos_\Documents\code\WizardInventory\WizardInventory\obj\Debug\netcoreapp3.1\WizardInventory.AssemblyInfo.cs
+C:\Users\Aieos_\Documents\code\WizardInventory\WizardInventory\obj\Debug\netcoreapp3.1\WizardInventory.csproj.CoreCompileInputs.cache
+C:\Users\Aieos_\Documents\code\WizardInventory\WizardInventory\obj\Debug\netcoreapp3.1\WizardInventory.dll
+C:\Users\Aieos_\Documents\code\WizardInventory\WizardInventory\obj\Debug\netcoreapp3.1\WizardInventory.pdb
+C:\Users\Aieos_\Documents\code\WizardInventory\WizardInventory\obj\Debug\netcoreapp3.1\WizardInventory.genruntimeconfig.cache
